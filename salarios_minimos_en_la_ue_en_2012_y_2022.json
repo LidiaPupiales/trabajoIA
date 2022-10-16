@@ -1,0 +1,365 @@
+﻿{
+    "Url": "www.epdata.es/salarios-minimos-ue-2011-2021/5ee69777-baff-4c49-a8dc-624889bcc406",
+    "Respuesta": {
+        "Id": "5ee69777-baff-4c49-a8dc-624889bcc406",
+        "Url": "www.epdata.es/salarios-minimos-ue-2011-2021/5ee69777-baff-4c49-a8dc-624889bcc406",
+        "Titulo": "Salarios mínimos en la UE en 2012 y 2022",
+        "Subtitulo": "Salario mínimo mensual en 12 pagas",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Salario mínimo 2012",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Eurostat",
+                    "Clasificacion": null,
+                    "Unidad": "Euros",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Bélgica",
+                            "Valor": 1443.54,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Bulgaria",
+                            "Valor": 138.05,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Croacia",
+                            "Valor": 373.36,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Eslovaquia",
+                            "Valor": 327,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Eslovenia",
+                            "Valor": 763.06,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "España",
+                            "Valor": 748.3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Estonia",
+                            "Valor": 290,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Francia",
+                            "Valor": 1398.37,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Grecia",
+                            "Valor": 876.62,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Hungría",
+                            "Valor": 295.63,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Irlanda",
+                            "Valor": 1461.85,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Letonia",
+                            "Valor": 285.92,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Lituania",
+                            "Valor": 231.7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Luxemburgo",
+                            "Valor": 1801.49,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Malta",
+                            "Valor": 685.14,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Países Bajos",
+                            "Valor": 1446.6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Polonia",
+                            "Valor": 336.47,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Portugal",
+                            "Valor": 565.83,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "República Checa",
+                            "Valor": 310.23,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Rumanía",
+                            "Valor": 161.91,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                },
+                {
+                    "Id": 1,
+                    "Nombre": "Salario mínimo 2022",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Eurostat",
+                    "Clasificacion": null,
+                    "Unidad": "Euros",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Alemania",
+                            "Valor": 1621,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Bélgica",
+                            "Valor": 1658.23,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Bulgaria",
+                            "Valor": 332.34,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Croacia",
+                            "Valor": 623.7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Eslovaquia",
+                            "Valor": 646,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Eslovenia",
+                            "Valor": 1074.43,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "España",
+                            "Valor": 1125.83,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Estonia",
+                            "Valor": 654,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Francia",
+                            "Valor": 1603.12,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Grecia",
+                            "Valor": 773.5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Hungría",
+                            "Valor": 541.73,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Irlanda",
+                            "Valor": 1774.5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Letonia",
+                            "Valor": 500,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Lituania",
+                            "Valor": 730,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Luxemburgo",
+                            "Valor": 2256.95,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Malta",
+                            "Valor": 792.26,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Países Bajos",
+                            "Valor": 1725,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Polonia",
+                            "Valor": 654.79,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Portugal",
+                            "Valor": 822.5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "República Checa",
+                            "Valor": 651.7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Semestre 1",
+                            "Parametro": "Rumanía",
+                            "Valor": 515.26,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
